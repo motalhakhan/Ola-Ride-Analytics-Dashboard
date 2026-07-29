@@ -4,7 +4,7 @@
 This Power BI dashboard analyzes Ola ride booking data to uncover trends in revenue, cancellations, vehicle performance, and customer ratings.
 
 ## Screenshots
-![main](assets/main.png)
+![main](screenshots/main.png)
 
 ## Tools Used
 - Power BI
